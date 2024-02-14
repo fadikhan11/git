@@ -1,0 +1,12 @@
+{
+    "name": "my-project",
+    "version": "1.0.0",
+    "description": "A simple project for learning purposes",
+    "main": "index.html",  // Since you're working with HTML files
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"  // You can customize this later
+    },
+    "dependencies": {},  // Add dependencies as needed
+    "devDependencies": {}  // Add development dependencies as needed
+  }
+  
